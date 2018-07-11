@@ -6,6 +6,7 @@ package org.java.web;
 public class OneControlle {
 
     public void aa(){
+        System.out.println("hello world");
 
     }
 }
